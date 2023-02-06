@@ -1,0 +1,85 @@
+.pagelayout{
+    padding: 5%;
+    font-family: "Comic Sans MS";
+    background: #c38D9E;
+    color: whitesmoke;
+    height: 80%;
+}
+
+.contact-page{
+    text-align: center;
+    padding-top:10%;
+    font-size: 60px;
+}
+
+a {
+    color:grey;
+    text-decoration: none;
+  }
+  
+  i {
+    letter-spacing: 40px;
+    padding: 2cm 0cm 1cm 0cm;
+    font-size: 49px;
+    transition: all .2s ease-in-out;
+  }
+  i:hover {
+    transform: scale(1.3);
+  }
+  
+  .fa-github:hover{
+      color: #333;
+  }
+  
+  .fa-facebook:hover {
+      color: #1877f2;
+  }
+  
+  .fa-instagram:hover {
+      color: #c32aa3;
+  }
+  
+  .fa-twitter:hover {
+      color: #1da1f2;
+  }
+  
+  .fa-linkedin:hover {
+      color: #0a66c2;
+  }
+  
+  .fa-youtube:hover {
+      color: #ff0000;
+  }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.projects img {
+    width: 100%;
+}
+
+.bg-primary {
+    background: #0F172A;
+}
+
+.bg-secondery {
+    background: #1E293B;
+}
+
+.bg-accent {
+    background: #7477FF;
+}
+
+.text-accent {
+    color: #7477FF;
+}
+
+nav li a:hover {
+    color: #7477FF;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    line-height: 1.5 !important;
+}
