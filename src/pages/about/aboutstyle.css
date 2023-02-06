@@ -1,12 +1,13 @@
 .flex{
     display: flex;
     flex-direction: column;
-    background: rgb(238,174,202);
-    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    /* background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
 }
 
 .alignImg{
-    margin-left: 750px;
+    margin-left: 75%;
+    margin-top: 5%;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:700');
@@ -36,7 +37,7 @@
   width: 100%;
 }
 .animated-title > div div {
-  font-size: 12vmin;
+  font-size: 10vmin;
   padding: 2vmin 0;
   position: absolute;
 }
